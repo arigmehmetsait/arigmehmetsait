@@ -1,40 +1,39 @@
-<h1 align="center">Merhaba, ben Mehmet Sait Arığ 👋</h1>
-<h3 align="center">Frontend Developer | React • Next.js • TypeScript</h3>
+<h1 align="center">Hi 👋, I'm Mehmet Sait Arığ</h1>
 
 <p align="center">
-  Modern ve kullanıcı odaklı web projeleri geliştiriyorum.  
-  Özellikle React, Next.js ve TypeScript ile ölçeklenebilir arayüzler üretmeyi seviyorum.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Learning+.NET+Web+API+and+Clean+Architecture;Building+modern+and+scalable+web+experiences" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="coding animation" />
 </p>
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🔭 Şu anda modern web projeleri geliştiriyorum
-- 🌱 Kendimi **.NET Web API**, **Clean Architecture** ve **Data Engineering** alanlarında geliştiriyorum
-- 💻 En çok çalıştığım teknolojiler: **React, Next.js, TypeScript**
-- 🎯 Hedefim: güçlü bir yazılım geliştirici profili oluşturup zamanla teknik liderlik/manager tarafına ilerlemek
+- 💻 Frontend Developer focused on building modern web applications
+- ⚛️ Working mostly with **React, Next.js, and TypeScript**
+- 🌱 Currently learning **.NET Web API**, **Clean Architecture**, and **Data Engineering**
+- 🎯 Interested in scalable products, clean code, and strong software architecture
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,firebase,dotnet,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arigmehmetsait&show_icons=true&theme=highcontrast" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arigmehmetsait&show_icons=true&theme=highcontrast&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arigmehmetsait&layout=compact&theme=highcontrast" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arigmehmetsait&theme=highcontrast" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arigmehmetsait&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arigmehmetsait&theme=highcontrast" />
 </p>
