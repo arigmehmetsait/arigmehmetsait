@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Sait Arığ</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web&Mobile+Developer;React+%7C+Next.js+%7C+TypeScript;Learning+.NET+Web+API+and+Clean+Architecture;Building+modern+and+scalable+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Learning+.NET+Web+API+and+Clean+Architecture;Building+modern+and+scalable+web+experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
