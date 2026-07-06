@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer focused on building modern web applications
+- 💻 Jr. Full-Stack Developer focused on building modern web applications
 - ⚛️ Working mostly with **React, Next.js, and TypeScript**
 - 🌱 Currently learning **.NET Web API**, **Clean Architecture**, and **Data Engineering**
 - 🎯 Interested in scalable products, clean code, and strong software architecture
